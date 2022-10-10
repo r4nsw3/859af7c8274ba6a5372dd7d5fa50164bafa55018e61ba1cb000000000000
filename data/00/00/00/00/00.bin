@@ -1,0 +1,127 @@
+                         ______            _____         ______
+                   _____/     /   _  _____/    /   __  __\___  \__
+         _ _____  _\   /     /  _____    /   _/ _______    _/   _/_ _____
+          _____/___   /     /__/    /   _    \__\__   /__  \      / ____/___
+      ______      /  /_    /  /   _/    /     /   /     /  /     /___      /
+    _ /    /     /________/  _    \____/_____/   /     /__/_____/   /     /_
+  _///    /     /   _ _      /     /   __ _     /     /    _ _     /     ///_
+  - /__________/ ---- /_____/_____/ ----- /__________/ ----- /__________/ ---
+  |                                                                         |
+  |                 - P R O U D L Y      P R E S E N T S -                  |
+..:_________________________________________________________________________:..
+  :                                                                         :
+  |       Title : Bad North (Update v1.05)                                  |
+  |   -------------------------------------------------------------------   |
+  |                                                                         |
+  |   Publisher : Raw Fury                    Platform : Nintendo Switch    |
+  |   Developer : Plausible Concept             Origin : eShop              |
+  |       Genre : Strategy / Action           Title ID : 0100E98006F22800   |
+  |        Date : January 2019                  Format : 07x50MB / NSP      |
+  |                                                                         |
+  :_________________________________________________________________________:
+  |                                                                         |
+  |     Summary                                                             |
+  |   -------------------------------------------------------------------   |
+  |                                                                         |
+  |   Your home is under attack. The king is dead at the hands of Viking    |
+  |   invaders. Hope is a distant glimmer in the fog, fading fast with      |
+  |   every passing moment. As you rise to take your father's place as      |
+  |   ruler, it will fall to you to stage your defenses. But make no        |
+  |   mistake - this is no fight for victory, but a desperate grasp for     |
+  |   survival.                                                             |
+  |                                                                         |
+  |   Bad North is a charming but brutal real-time tactics roguelite.       |
+  |   Defend your idyllic island kingdom against a horde of Viking          |
+  |   invaders, as you lead the desperate exodus of your people. Command    |
+  |   your loyal subjects to take full tactical advantage of the unique     |
+  |   shape of each island. Everything is at stake: fail, and watch the     |
+  |   blood of your subjects stain the ground red.                          |
+  |                                                                         |
+  |   It's charmingly brutal, with beautiful procedurally-generated         |
+  |   islands and adorable soldiers juxtaposed against the blood-stained    |
+  |   realities of war. You control the broad strokes of the battle,        |
+  |   giving high level commands to your soldiers who try their best to     |
+  |   carry them out in the heat of the moment. It's accessibly deep,       |
+  |   with simple player inputs masking a dynamic combat simulation that    |
+  |   make it inviting to new players while challenging veterans.           |
+  |                                                                         |
+  |   Keep fighting, warriors. Not for power or riches or glory, but for    |
+  |   hope of peace to come once again in the harsh lands of the Bad        |
+  |   North.                                                                |
+  |                                                                         |
+  |   Languages: Chinese, Dutch, English, French, German, Italian,          |
+  |   Japanese, Korean, Portuguese, Russian and Spanish.                    |
+  |                                                                         |
+  |                                                                         |
+  |   Update/Patch Notes: v1.05 (v327680).                                  |
+  |                                                                         |
+  |   The new Update includes balance adjustments,  adds in features,       |
+  |   improves performance, and fixes bugs.                                 |
+  |                                                                         |
+  |   Balance                                                               |
+  |                                                                         |
+  |   - Plunge can now drop from a height of 2 at upgrade level 1 and 2     |
+  |   - Slight buff to archers                                              |
+  |   - Replenish can begin before all units make it to the house, if       |
+  |     some are delayed                                                    |
+  |   - Fixes progression blocker if commander is stunlocked                |
+  |   - Early game enemy types appear a little sooner                       |
+  |                                                                         |
+  |   Features                                                              |
+  |                                                                         |
+  |   - Easy Difficulty mode                                                |
+  |   - Keyboard remapping                                                  |
+  |   - Gamepad layout cheatsheets                                          |
+  |   - Loadout / Deployment order is retained from turn to turn            |
+  |   - Game will detect if you trap yourself on the campaign map and       |
+  |     trigger a game over                                                 |
+  |                                                                         |
+  |   Performance                                                           |
+  |                                                                         |
+  |   - Improved Island Generation so failures are less likely              |
+  |   - Should reduce the chance of having islands stuck under the fog      |
+  |   - Improved some framerate spikes due to garbage collection            |
+  |                                                                         |
+  |   Bug Fixes                                                             |
+  |                                                                         |
+  |   - Possible fix for game sometimes hanging at start                    |
+  |   - Fix for archers sometimes shooting through cave walls               |
+  |   - Fixed issues where units would occasionally stick on each other     |
+  |   - Fix for potential progression blocker if some soldiers made it      |
+  |     into a house but the commander gets stunlocked on their way there   |
+  |   - Fix for squads occasionally forgetting to follow their commander    |
+  |     back out of a house                                                 |
+  |   - Improved handling of corrupted campaign save files                  |
+  |   - Fix for units being invisible on some Mac Graphics APIs             |
+  |   - Fix for commander flags getting stuck on houses                     |
+  |   - Cycling through squads will show godrays, indicating the selected   |
+  |     squad                                                               |
+  |   - Fleeing archers will be able to shoot from the ship before their    |
+  |     commander arrives                                                   |
+  |   - Fix for the squad destination marker sometimes becoming invisible   |
+  |                                                                         |
+  |   Polish                                                                |
+  |                                                                         |
+  |   - Miscellaneous UI polish                                             |
+  |   - On Switch, there is a lovely sound when you return to the game      |
+  |     from home screen                                                    |
+  |   - Squads will now exit the house and pretend they were helping, if    |
+  |     they were replenishing when the battle was won                      |
+  |   - Corpses get highlighted like grass                                  |
+  |   - Flee will popup an icon once the ship is considered fully fled      |
+  |     (50% to the fog)                                                    |
+  |   - Sparklier snow                                                      |
+  |                                                                         |
+  :_________________________________________________________________________:
+  |                                                                         |
+  |      Greets                                                             |
+  |   -------------------------------------------------------------------   |
+  |                                                                         |
+  |       Abstrakt . Capital . Caravan . Dual Crew Shining . Eurasia        |
+  |      Lightforce . Menace . Mode 7 . Nightfall . Oldskool . Paradox      |
+  |        Quartex . Quasar . Rising Sun . Squire . Triforce . Venom        |
+  :                                                                         :
+..:_________________________________________________________________________:..
+  :                                                                         :
+  .                    SUXXORS - Certified! Since 2003.                     .
+
